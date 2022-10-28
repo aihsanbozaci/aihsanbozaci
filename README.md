@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2+ years..<br>📚 I'm currently learning Node.js<br>🎯 Goals: Becoming Full-Stack web developer and Mobile developer at the same time.</p>
+<p align="left">✨ Creating bugs since 2+ years..<br>📚 I'm currently learning Node.js and PHP<br>🎯 Goals: Becoming Full-Stack web developer.</p>
 
 ###
 
