@@ -3,7 +3,7 @@
 
 <h2 align="left">I'm Ahmet İhsan Bozacı, computer programmer.</h2>
 
-<h3 align="left"> Full-Stack web developer and currently learning new technologies about it as always. I am currently working full time in a company. </h3>
+<h3 align="left"> Full-Stack web developer and currently learning new technologies about it as always. I am currently working full time in a company. Unfortunately they're not using GitHub. </h3>
 
 ###
 
