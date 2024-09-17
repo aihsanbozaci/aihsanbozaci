@@ -3,7 +3,7 @@
 
 <h2 align="left">I'm Ahmet İhsan Bozacı, computer programmer.</h2>
 
-<h3 align="left"> Full-Stack web developer and currently learning new technologies about it as always. I am currently working full time in a company. Unfortunately they're not using GitHub. </h3>
+<h3 align="left"> Full-Stack web developer and currently learning new technologies about it as always. I am currently working full time in a company. </h3>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2+ years..<br>📚 I'm currently learning Node.js and PHP<br>🎯 Goals: Becoming Full-Stack web developer.</p>
+<p align="left">✨ Creating bugs since 2+ years..<br>📚 I'm currently working as a Laravel Developer</p>
 
 ###
 
