@@ -11,6 +11,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2+ years.<br>📚 Currently working as a Laravel developer in the fintech sector. </p>
+<p align="left">✨ Creating bugs since 3+ years.<br>📚 Currently working as a Laravel developer in the fintech sector. </p>
 
 ###
